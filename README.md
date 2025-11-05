@@ -52,7 +52,7 @@ This project implements an Examination Handling System using Flask for the backe
 ## Usage
 
 - Open your web browser and go to `http://127.0.0.1:5000`.
-- Click the "Deploy Contract" button to interact with the blockchain (currently a placeholder).
+- Click the "Deploy Contract" button to interact with the blockchain.
 
 ## Future Enhancements
 
